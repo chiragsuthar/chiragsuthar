@@ -1,10 +1,5 @@
 ### Hello from Chirag Suthar 👋
 
-<!--
-**chiragsuthar/chiragsuthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on bigmart mini project.
 - 🌱 I’m currently learning Python, Django, Data-Structures, Web-Development.
 - 👯 I’m looking to collaborate on Computer Science.
@@ -16,4 +11,3 @@ Here are some ideas to get you started:
   Facebook : https://www.facebook.com/chiragsuthar26/
   Instagram : https://www.instagram.com/chirag_sv/
   Stack overflow : https://stackoverflow.com/users/11352281/chirag-suthar
--->
