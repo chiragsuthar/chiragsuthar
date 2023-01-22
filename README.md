@@ -14,4 +14,5 @@
  
  ## IIT Delhi
 
-![iitd](https://user-images.githubusercontent.com/47880785/213902378-c8ac5405-54dc-4835-9c79-e7cfbe2fea84.jpeg)
+![iitd](https://user-images.githubusercontent.com/47880785/213902424-5846591f-07ba-4045-8517-533bc6aa30e8.jpeg)
+
