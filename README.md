@@ -11,4 +11,7 @@
     - Facebook : [chiragsuthar26](https://www.facebook.com/chiragsuthar26/)
     - Instagram : [chirag_sv](https://www.instagram.com/chirag_sv/)
     - Stack overflow : [chirag-suthar](https://stackoverflow.com/users/11352281/chirag-suthar)
- ![iitd](https://user-images.githubusercontent.com/47880785/213902214-690de5da-ec55-4ad0-8f86-c955d7b695cd.jpeg)
+ 
+ ## IIT Delhi
+
+![iitd](https://user-images.githubusercontent.com/47880785/213902378-c8ac5405-54dc-4835-9c79-e7cfbe2fea84.jpeg)
