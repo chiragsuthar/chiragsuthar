@@ -12,7 +12,7 @@
     - Instagram : [chirag_sv](https://www.instagram.com/chirag_sv/)
     - Stack overflow : [chirag-suthar](https://stackoverflow.com/users/11352281/chirag-suthar)
  
- ## IIT Delhi : Programming is not a science, it's an art, it shouldn't be just beautiful but a mesmerising experience. So take it as high as possible..!!
+ ## Programming is not a science, it's an art, it shouldn't be just beautiful but a mesmerising experience. So take it as high as possible..!!
 
 ![iitd](https://user-images.githubusercontent.com/47880785/213902424-5846591f-07ba-4045-8517-533bc6aa30e8.jpeg)
 
