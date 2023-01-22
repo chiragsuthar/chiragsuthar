@@ -6,8 +6,8 @@
 - 🤔 I’m looking for help with Data-Science, Machine Learning and Artificial Intiligence.
 - 💬 Ask me about Computer Science.
 - 📫 How to reach me: 
-  LinkedIn : https://www.linkedin.com/in/chirag26/
-  Twitter : https://twitter.com/chirag_sv
-  Facebook : https://www.facebook.com/chiragsuthar26/
-  Instagram : https://www.instagram.com/chirag_sv/
-  Stack overflow : https://stackoverflow.com/users/11352281/chirag-suthar
+  LinkedIn : [chirag26](https://www.linkedin.com/in/chirag26/)
+  Twitter : [chirag_sv](https://twitter.com/chirag_sv)
+  Facebook : [chiragsuthar26](https://www.facebook.com/chiragsuthar26/)
+  Instagram : [chirag_sv](https://www.instagram.com/chirag_sv/)
+  Stack overflow : [chirag-suthar](https://stackoverflow.com/users/11352281/chirag-suthar)
