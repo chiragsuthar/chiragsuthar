@@ -32,7 +32,7 @@
 
 | | |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------- |
-| ![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=chiragsuthar&show_icons=true&theme=algolia&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragsuthar&theme=algolia) | ![Hackerrank](https://www.hackerrank.com/chirag_sv)
+| ![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=chiragsuthar&show_icons=true&theme=great-gatsby&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragsuthar&theme=kacho_ga) | ![Hackerrank](https://www.hackerrank.com/chirag_sv)
 
 <br />
 
