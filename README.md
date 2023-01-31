@@ -42,12 +42,11 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/chirag26/ "LinkedIn")
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white "Facebook")](https://www.facebook.com/chiragsuthar26/ "Facebook")
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white "Twitter")](https://twitter.com/chirag_sv "Twitter")
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white "StackOverflow")](https://stackoverflow.com/users/11352281/chirag-suthar "StackOverflow")
-
+[![Stack-Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white "StackOverflow")](https://stackoverflow.com/users/11352281/chirag-suthar "StackOverflow")
+[![Code-Studio](https://img.shields.io/badge/CodeStudio-FE7A16?style=flat&logo=code-studio&logoColor=white "CodeStudio")](https://www.codingninjas.com/codestudio/profile/Chirag_Suthar "Code-Studio")
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat&labelColor=black&logo=Instagram&logoColor=pink "Instagram")](https://www.instagram.com/chirag_sv/ "Instagram")
 
-    - Instagram : [chirag_sv](https://www.instagram.com/chirag_sv/)
     - HackerRank : [chirag_sv](https://www.hackerrank.com/chirag_sv)
-    - Code Studio : [Chirag_Suthar](https://www.codingninjas.com/codestudio/profile/Chirag_Suthar)
+    - Code-Studio : [Chirag_Suthar](https://www.codingninjas.com/codestudio/profile/Chirag_Suthar)
 
  > Programming is not a science, it's an art, it shouldn't be just beautiful but a mesmerising experience. So take it as high as possible..!!
