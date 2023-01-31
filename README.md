@@ -41,10 +41,8 @@
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/chiragsuthar/ "Github")
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/chirag26/ "LinkedIn")
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white "Twitter")](https://twitter.com/chirag_sv "Twitter")
+[![Stack Overflow](https://img.shields.io/badge/-Stack-Overflow-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white "Twitter")](https://stackoverflow.com/users/11352281/chirag-suthar "Stack Overflow")
 
-
-    - LinkedIn : [chirag26](https://www.linkedin.com/in/chirag26/)
-    - Twitter : [chirag_sv](https://twitter.com/chirag_sv)
     - Facebook : [chiragsuthar26](https://www.facebook.com/chiragsuthar26/)
     - Instagram : [chirag_sv](https://www.instagram.com/chirag_sv/)
     - Stack overflow : [chirag-suthar](https://stackoverflow.com/users/11352281/chirag-suthar)
