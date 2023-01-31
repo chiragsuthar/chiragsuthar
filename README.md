@@ -1,4 +1,4 @@
-## Hello from Chirag Suthar !!! 👋
+## Hello from Chirag Suthar 👋
 
 ![iitd](https://user-images.githubusercontent.com/47880785/213902424-5846591f-07ba-4045-8517-533bc6aa30e8.jpeg)
 
