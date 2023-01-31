@@ -40,7 +40,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/chiragsuthar/ "Github")
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/chirag26/ "LinkedIn")
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=blue "Facebook")](https://www.facebook.com/chiragsuthar26/ "Facebook")
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white "Facebook")](https://www.facebook.com/chiragsuthar26/ "Facebook")
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white "Twitter")](https://twitter.com/chirag_sv "Twitter")
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white "StackOverflow")](https://stackoverflow.com/users/11352281/chirag-suthar "StackOverflow")
 
