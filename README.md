@@ -41,11 +41,10 @@
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/chiragsuthar/ "Github")
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/chirag26/ "LinkedIn")
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white "Twitter")](https://twitter.com/chirag_sv "Twitter")
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white "StackOverflow")](https://stackoverflow.com/users/11352281/chirag-suthar "StackOverflow")
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white "StackOverflow")](https://stackoverflow.com/users/11352281/chirag-suthar "StackOverflow")
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&labelColor=white&logo=facebook&logoColor=white "Facebook")](https://www.facebook.com/chiragsuthar26/ "Facebook")
 
-    - Facebook : [chiragsuthar26](https://www.facebook.com/chiragsuthar26/)
     - Instagram : [chirag_sv](https://www.instagram.com/chirag_sv/)
-    - Stack overflow : [chirag-suthar](https://stackoverflow.com/users/11352281/chirag-suthar)
     - HackerRank : [chirag_sv](https://www.hackerrank.com/chirag_sv)
     - Code Studio : [Chirag_Suthar](https://www.codingninjas.com/codestudio/profile/Chirag_Suthar)
 
