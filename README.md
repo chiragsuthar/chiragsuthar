@@ -46,6 +46,6 @@
 [![Stack-Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white "StackOverflow")](https://stackoverflow.com/users/11352281/chirag-suthar "StackOverflow")
 [![Code-Studio](https://img.shields.io/badge/CodeStudio-FE7A16?style=flat&logo=code-studio&logoColor=white "CodeStudio")](https://www.codingninjas.com/codestudio/profile/Chirag_Suthar "Code-Studio")
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat&labelColor=black&logo=Instagram&logoColor=pink "Instagram")](https://www.instagram.com/chirag_sv/ "Instagram")
-[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat&labelColor=red&logo=Instagram&logoColor=white "Youtube")](https://m.youtube.com/channel/UC3uIM67LIg-2drf311esPmA "Youtube")
+[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat&labelColor=red&logo=Youtube&logoColor=white "Youtube")](https://m.youtube.com/channel/UC3uIM67LIg-2drf311esPmA "Youtube")
 
  > Programming is not a science, it's an art, it shouldn't be just beautiful but a mesmerising experience. So take it as high as possible..!!
