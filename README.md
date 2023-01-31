@@ -2,7 +2,7 @@
 
 ![iitd](https://user-images.githubusercontent.com/47880785/213902424-5846591f-07ba-4045-8517-533bc6aa30e8.jpeg)
 
-- 🔭 I’m currently working on bigmart mini project.
+- 🔭 I’m currently working at Gujarat International Financial Tech-City.
 - 🌱 I’m currently learning Python, Django, Data-Structures, Web-Development.
 - 👯 I’m looking to collaborate on Computer Science.
 - 🤔 I’m looking for help with Data-Science, Machine Learning and Artificial Intiligence.
